@@ -18,3 +18,6 @@ Este projeto utiliza o Raspberry Pi Pico para controlar uma matriz de LEDs WS281
 - **Matriz de LEDs WS2812B**
 
 ![New Piskel (2)](https://github.com/user-attachments/assets/7feae339-85a1-4605-b1e2-e449a028005b)
+
+Segue o link para o vídeo do funcionamento do algorítmo da placa bitdoglab:
+https://drive.google.com/file/d/16pStWYgWL9t30oFCb7stOQWeJyFBgh5B/view?usp=drivesdk
