@@ -157,6 +157,8 @@ int main()
         {
             // Chamada da função para imprimir os desenhos
             desenho_pio(desenhos[a], valor_led, pio, sm, r, g, b);
+        }else{
+            desenho_pio(desenhos[10], valor_led, pio, sm, r, g, b);
         }
     }
 }
