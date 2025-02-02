@@ -16,3 +16,5 @@ Este projeto utiliza o Raspberry Pi Pico para controlar uma matriz de LEDs WS281
 - **GPIO (General Purpose Input/Output)**
 - **Interrupções no Raspberry Pi Pico**
 - **Matriz de LEDs WS2812B**
+
+![New Piskel (2)](https://github.com/user-attachments/assets/7feae339-85a1-4605-b1e2-e449a028005b)
